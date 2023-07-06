@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Setup .NET
-      uses: actions/setup-msbuild@v1.1
+      uses: microsoft/setup-msbuild@v1.1
       with:
         dotnet-version: 4.6.1
     - name: Restore dependencies
