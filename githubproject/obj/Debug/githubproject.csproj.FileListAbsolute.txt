@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\githubproject\githubproject\bin\Debug\githubproject.exe.config
+C:\Users\Jacob\source\repos\githubproject\githubproject\bin\Debug\githubproject.exe
+C:\Users\Jacob\source\repos\githubproject\githubproject\bin\Debug\githubproject.pdb
+C:\Users\Jacob\source\repos\githubproject\githubproject\obj\Debug\githubproject.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\githubproject\githubproject\obj\Debug\githubproject.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\githubproject\githubproject\obj\Debug\githubproject.exe
+C:\Users\Jacob\source\repos\githubproject\githubproject\obj\Debug\githubproject.pdb
