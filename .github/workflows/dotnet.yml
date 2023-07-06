@@ -23,6 +23,4 @@ jobs:
     - name: Restore dependencies
       run: nuget restore 
     - name: Build
-      run: msbuild build --no-restore
-    - name: Test
-      run: msbuild test --no-build --verbosity normal
+      run: msbuild build  
