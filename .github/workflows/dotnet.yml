@@ -15,13 +15,13 @@ jobs:
     runs-on: windows-2019
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
     - name: Setup .NET
-      uses: actions/setup-dotnet@v3
+      uses: actions/setup-msbuild@v1.1
       with:
         dotnet-version: 4.6.1
     - name: Restore dependencies
-      run: msbuild restore
+      run: nuget restore 
     - name: Build
       run: msbuild build --no-restore
     - name: Test
